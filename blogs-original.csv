@@ -190,7 +190,7 @@ Panda Home, https://old-panda.com/, https://old-panda.com/feed/, 编程; 生活
 游魂博客, https://www.iyouhun.com/, https://www.iyouhun.com/rss.php, 编程; 前端; 技术; 生活
 蓝卡, https://www.lanka.cn/, https://www.lanka.cn/feed/, 科技; 数码; 技术; 生活
 Yuuno Blog, https://yuuno.cc, https://yuuno.cc/atom.xml, 技术; 编程; 后端; 前端
-自学路漫漫, https://blog.fxcdev.com, https://blog.fxcdev.com/feed/, 编程; 生活
+自学路漫漫, https://blog.fxcdev.com, https://blog.fxcdev.com/atom.xml, 编程; 生活
 CodeSky, https://codesky.me, https://codesky.me/feed/, 编程; 前端; 后端; 运维; 折腾
 空之领域, https://xsky.me, https://xsky.me/feed/, 生活
 Claude's Blog, https://claude-ray.github.io, https://claude-ray.github.io/atom.xml, 编程; 折腾
@@ -579,7 +579,7 @@ AiDaiP, https://aidaip.github.io/, https://aidaip.github.io/feed.xml, 安全; �
 灵感电台, http://museradio.net/, http://museradio.net/atom.xml, Jack's art hobby habitat
 sulinehk's blog, https://www.sulinehk.com/, https://www.sulinehk.com/index.xml, 编程; Golang
 瘦人志, http://www.wuqiwen.cn/, http://www.wuqiwen.cn/feed/, 产品设计; 生活
-Drawoceans的博客, https://blog.drawoceans.com/, https://blog.drawoceans.com/feed/, 文学; 动漫; 生活; 随笔
+Drawoceans的博客, https://blog.dort.me/, https://blog.dort.me/feed/, 文学; 动漫; 生活; 随笔
 JustZht, https://www.justzht.com/, https://www.justzht.com/rss/, 随笔
 Mokeyjay's Blog, https://www.mokeyjay.com/, https://www.mokeyjay.com/feed, 编程; 开源; PHP; 生活; 分享; 记录
 叶开楗博客, https://xn--qpru0x.cn/, https://xn--qpru0x.cn/feed/, 日常; 生活; 记录
@@ -804,3 +804,13 @@ D2PE, https://d2pe.com, https://d2pe.com/atom.xml, 金融; 技术; 随笔
 Moeif, https://blog.moeif.com/, https://blog.moeif.com/index.xml, 独立开发; 技术; 游戏
 频率 - 风卷过的起点, https://pinlyu.com, https://pinlyu.com/atom.xml, 随笔; 观点; 读书; 影视
 Peacalm Notes - 双全的网站, https://lishuangquan.cn, https://lishuangquan.cn/index.xml, 编程; 后端; 互联网; 技术; 笔记
+icodex - 个人网站, https://icodex.me, https://icodex.me/atom.xml, 编程; 前端; 互联网; 技术; 笔记
+shrik3, https://shrik3.com, https://shrik3.com/index.xml, 编程; 技术; 随笔; 音乐
+MegaMU个人站, https://megamu.icu/, https://megamu.icu/feed.xml, 编程; 生活; 校园; 技术
+Willie Space, https://blog.wll.moe/, https://blog.wll.moe/feeds/atom.xml, 创造; 美好
+一恒的网志, https://hu86.cc, https://hu86.cc/feed, 生活; 技术; 建站
+枫树, https://atfeng.com, https://atfeng.com/index.xml, 生活; 技术
+暮雪离歌, https://bytedancer.vip/, , 编程; 技术; 随笔; 互联网; 技术
+好墨 - 夏和帆的博客, https://hao.ink, , 生活; 书法; 阅读
+Alfxjx的博客, https://www.abandon.work, , 前端; 生活
+Rei's Blog, https://rei.ac/, https://rei.ac/index.xml, 技术; 算法; 折腾
